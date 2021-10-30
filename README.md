@@ -1,2 +1,2 @@
 # Hotel
-Just a website for Practising.
+Just a website for Practice.
